@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS",
+  "description": "Private real-time group chat with access-code authentication, 30-day automatic message expiration, and owner moderation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
